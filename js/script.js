@@ -1,7 +1,7 @@
-let projectID = 1
-let projectTitle = 'Gibsons Locations'
-let projectComponents = true
-let projectList = ['title', 'thumb', 'url', 'desc']
+var projectID = 1
+var projectTitle = 'Gibsons Locations'
+var projectComponents = true
+var projectList = ['title', 'thumb', 'url', 'desc']
 console.log('ID: ' + projectID)
 console.log('Title: ' + projectTitle)
 console.log('Project has all components: ' + projectComponents)
