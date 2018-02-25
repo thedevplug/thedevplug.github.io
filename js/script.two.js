@@ -12,7 +12,7 @@ var twoObject = {
   who: 'Project Title',
   what: 'Project description.',
   best: true,
-  components: ['number', 'where', 'who', 'what', 'best']
+  elements: ['number', 'where', 'who', 'what', 'best']
 }
 console.log(twoArray[3])
 console.log(twoObject.what)
