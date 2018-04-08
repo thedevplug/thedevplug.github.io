@@ -27,7 +27,6 @@ a {
 .content-wrapper {
   line-height: 1.5;
   margin: 0 auto;
-  max-width: 900;
   padding: 30px 25px;
 }
 
@@ -46,11 +45,15 @@ a {
   text-align: center;
 }
 
-img {
-  height: 25%;
-  width: 25%;
+.projects img {
+  height: 22%;
+  width: 22%;
 }
 
+.header img {
+  height: 30%;
+  width: 30%;
+}
 
 .skills {
   background: #e91e63;
