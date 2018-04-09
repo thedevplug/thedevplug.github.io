@@ -16,6 +16,7 @@ let stwo = {
   color: 'red',
   fillOpacity: 0.5,
   lineJoin: 'bevel',
+  weight: 2,
 }
 let ctwo = [
   [33, -91],
