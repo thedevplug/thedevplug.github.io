@@ -5,7 +5,7 @@ let fortunegeo = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 36.365378,-94.217629 ]
+       "coordinates":  [ -94.217629,36.365378 ]
     },
     "properties": {
     "2015 RANK":1,
@@ -20,7 +20,7 @@ let fortunegeo = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 32.890006,-96.949909 ]
+       "coordinates":  [ -96.949909,32.890006 ]
     },
     "properties": {
     "2015 RANK":2,
@@ -35,7 +35,7 @@ let fortunegeo = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 37.758251,-121.958096 ]
+       "coordinates":  [ -121.958096,37.758251 ]
     },
     "properties": {
     "2015 RANK":3,
@@ -50,7 +50,7 @@ let fortunegeo = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 41.257264,-95.965401 ]
+       "coordinates":  [ -95.965401,41.257264 ]
     },
     "properties": {
     "2015 RANK":4,
@@ -65,7 +65,7 @@ let fortunegeo = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 37.331711,-122.030184 ]
+       "coordinates":  [ -122.030184,37.331711 ]
     },
     "properties": {
     "2015 RANK":5,
@@ -80,7 +80,7 @@ let fortunegeo = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 42.328831,-83.038958 ]
+       "coordinates":  [ -83.038958,42.328831 ]
     },
     "properties": {
     "2015 RANK":6,
@@ -95,7 +95,7 @@ let fortunegeo = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 29.732199,-95.550192 ]
+       "coordinates":  [ -95.550192,29.732199 ]
     },
     "properties": {
     "2015 RANK":7,
@@ -110,7 +110,7 @@ let fortunegeo = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 41.216368,-73.252955 ]
+       "coordinates":  [ -73.252955,41.216368 ]
     },
     "properties": {
     "2015 RANK":8,
@@ -125,7 +125,7 @@ let fortunegeo = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 42.317437,-83.209489 ]
+       "coordinates":  [ -83.209489,42.317437 ]
     },
     "properties": {
     "2015 RANK":9,
@@ -140,7 +140,7 @@ let fortunegeo = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 41.990756,-71.477265 ]
+       "coordinates":  [ -71.477265,41.990756 ]
     },
     "properties": {
     "2015 RANK":10,
@@ -155,7 +155,7 @@ let fortunegeo = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 37.78884,-122.402715 ]
+       "coordinates":  [ -122.402715,37.78884 ]
     },
     "properties": {
     "2015 RANK":11,
@@ -170,7 +170,7 @@ let fortunegeo = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 32.779555,-96.798782 ]
+       "coordinates":  [ -96.798782,32.779555 ]
     },
     "properties": {
     "2015 RANK":12,
@@ -185,7 +185,7 @@ let fortunegeo = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 29.584281,-98.606243 ]
+       "coordinates":  [ -98.606243,29.584281 ]
     },
     "properties": {
     "2015 RANK":13,
@@ -200,7 +200,7 @@ let fortunegeo = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 44.897394,-93.403187 ]
+       "coordinates":  [ -93.403187,44.897394 ]
     },
     "properties": {
     "2015 RANK":14,
@@ -215,7 +215,7 @@ let fortunegeo = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 40.713803,-74.012997 ]
+       "coordinates":  [ -74.012997,40.713803 ]
     },
     "properties": {
     "2015 RANK":15,
@@ -230,7 +230,7 @@ let fortunegeo = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 40.068608,-75.468305 ]
+       "coordinates":  [ -75.468305,40.068608 ]
     },
     "properties": {
     "2015 RANK":16,
@@ -245,7 +245,7 @@ let fortunegeo = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 38.940483,-77.076563 ]
+       "coordinates":  [ -77.076563,38.940483 ]
     },
     "properties": {
     "2015 RANK":17,
@@ -260,7 +260,7 @@ let fortunegeo = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 47.548675,-122.050648 ]
+       "coordinates":  [ -122.050648,47.548675 ]
     },
     "properties": {
     "2015 RANK":18,
@@ -275,7 +275,7 @@ let fortunegeo = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 37.414745,-122.146346 ]
+       "coordinates":  [ -122.146346,37.414745 ]
     },
     "properties": {
     "2015 RANK":19,
@@ -290,7 +290,7 @@ let fortunegeo = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 39.106557,-84.514165 ]
+       "coordinates":  [ -84.514165,39.106557 ]
     },
     "properties": {
     "2015 RANK":20,
@@ -305,7 +305,7 @@ let fortunegeo = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 40.755882,-73.975584 ]
+       "coordinates":  [ -73.975584,40.755882 ]
     },
     "properties": {
     "2015 RANK":21,
@@ -320,7 +320,7 @@ let fortunegeo = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 38.71869,-90.310919 ]
+       "coordinates":  [ -90.310919,38.71869 ]
     },
     "properties": {
     "2015 RANK":22,
@@ -335,7 +335,7 @@ let fortunegeo = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 35.22734,-80.84224 ]
+       "coordinates":  [ -80.84224,35.22734 ]
     },
     "properties": {
     "2015 RANK":23,
@@ -350,7 +350,7 @@ let fortunegeo = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 41.108302,-73.720468 ]
+       "coordinates":  [ -73.720468,41.108302 ]
     },
     "properties": {
     "2015 RANK":24,
@@ -365,7 +365,7 @@ let fortunegeo = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 41.036092,-83.649443 ]
+       "coordinates":  [ -83.649443,41.036092 ]
     },
     "properties": {
     "2015 RANK":25,
@@ -380,7 +380,7 @@ let fortunegeo = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 40.108852,-83.120396 ]
+       "coordinates":  [ -83.120396,40.108852 ]
     },
     "properties": {
     "2015 RANK":26,
@@ -395,7 +395,7 @@ let fortunegeo = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 41.883312,-87.638821 ]
+       "coordinates":  [ -87.638821,41.883312 ]
     },
     "properties": {
     "2015 RANK":27,
@@ -410,7 +410,7 @@ let fortunegeo = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 40.759025,-73.971981 ]
+       "coordinates":  [ -73.971981,40.759025 ]
     },
     "properties": {
     "2015 RANK":28,
@@ -425,7 +425,7 @@ let fortunegeo = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 47.622279,-122.336829 ]
+       "coordinates":  [ -122.336829,47.622279 ]
     },
     "properties": {
     "2015 RANK":29,
@@ -440,7 +440,7 @@ let fortunegeo = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 37.793388,-122.402702 ]
+       "coordinates":  [ -122.402702,37.793388 ]
     },
     "properties": {
     "2015 RANK":30,
@@ -455,7 +455,7 @@ let fortunegeo = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 47.639583,-122.128381 ]
+       "coordinates":  [ -122.128381,47.639583 ]
     },
     "properties": {
     "2015 RANK":31,
@@ -470,7 +470,7 @@ let fortunegeo = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 39.102772,-84.505778 ]
+       "coordinates":  [ -84.505778,39.102772 ]
     },
     "properties": {
     "2015 RANK":32,
@@ -485,7 +485,7 @@ let fortunegeo = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 33.848404,-84.432327 ]
+       "coordinates":  [ -84.432327,33.848404 ]
     },
     "properties": {
     "2015 RANK":33,
@@ -500,7 +500,7 @@ let fortunegeo = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 39.865305,-88.887216 ]
+       "coordinates":  [ -88.887216,39.865305 ]
     },
     "properties": {
     "2015 RANK":34,
@@ -515,7 +515,7 @@ let fortunegeo = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 42.15553,-87.868503 ]
+       "coordinates":  [ -87.868503,42.15553 ]
     },
     "properties": {
     "2015 RANK":35,
@@ -530,7 +530,7 @@ let fortunegeo = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 44.974062,-93.275431 ]
+       "coordinates":  [ -93.275431,44.974062 ]
     },
     "properties": {
     "2015 RANK":36,
@@ -545,7 +545,7 @@ let fortunegeo = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 40.499542,-74.44165 ]
+       "coordinates":  [ -74.44165,40.499542 ]
     },
     "properties": {
     "2015 RANK":37,
@@ -560,7 +560,7 @@ let fortunegeo = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 39.76913,-86.158805 ]
+       "coordinates":  [ -86.158805,39.76913 ]
     },
     "properties": {
     "2015 RANK":38,
@@ -575,7 +575,7 @@ let fortunegeo = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 40.753525,-73.976571 ]
+       "coordinates":  [ -73.976571,40.753525 ]
     },
     "properties": {
     "2015 RANK":39,
@@ -590,7 +590,7 @@ let fortunegeo = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 37.422418,-122.08429 ]
+       "coordinates":  [ -122.08429,37.422418 ]
     },
     "properties": {
     "2015 RANK":40,
@@ -605,7 +605,7 @@ let fortunegeo = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 40.478165,-88.954401 ]
+       "coordinates":  [ -88.954401,40.478165 ]
     },
     "properties": {
     "2015 RANK":41,
@@ -620,7 +620,7 @@ let fortunegeo = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 38.932839,-77.227331 ]
+       "coordinates":  [ -77.227331,38.932839 ]
     },
     "properties": {
     "2015 RANK":42,
@@ -635,7 +635,7 @@ let fortunegeo = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 39.954697,-75.168629 ]
+       "coordinates":  [ -75.168629,39.954697 ]
     },
     "properties": {
     "2015 RANK":43,
@@ -650,7 +650,7 @@ let fortunegeo = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 41.03451,-73.692914 ]
+       "coordinates":  [ -73.692914,41.03451 ]
     },
     "properties": {
     "2015 RANK":44,
@@ -665,7 +665,7 @@ let fortunegeo = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 41.765498,-72.673928 ]
+       "coordinates":  [ -72.673928,41.765498 ]
     },
     "properties": {
     "2015 RANK":45,
@@ -680,7 +680,7 @@ let fortunegeo = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 40.706376,-74.005156 ]
+       "coordinates":  [ -74.005156,40.706376 ]
     },
     "properties": {
     "2015 RANK":46,
@@ -695,7 +695,7 @@ let fortunegeo = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 33.943347,-84.360167 ]
+       "coordinates":  [ -84.360167,33.943347 ]
     },
     "properties": {
     "2015 RANK":47,
@@ -710,7 +710,7 @@ let fortunegeo = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 43.615583,-84.247212 ]
+       "coordinates":  [ -84.247212,43.615583 ]
     },
     "properties": {
     "2015 RANK":48,
@@ -725,7 +725,7 @@ let fortunegeo = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 41.766781,-72.689567 ]
+       "coordinates":  [ -72.689567,41.766781 ]
     },
     "properties": {
     "2015 RANK":49,
@@ -740,7 +740,7 @@ let fortunegeo = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 35.543209,-80.852959 ]
+       "coordinates":  [ -80.852959,35.543209 ]
     },
     "properties": {
     "2015 RANK":50,
