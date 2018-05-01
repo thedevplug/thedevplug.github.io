@@ -1,0 +1,11 @@
+header,footer {
+  height: 100px;
+  background-color: green;
+  text-align: center;
+}
+
+#finalm {
+  height: 500px;
+  width: 75%;
+  left: 12.5%;
+}
