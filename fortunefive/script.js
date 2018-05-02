@@ -21,7 +21,6 @@ function style (feature) {
         fillColor: getColor(feature.properties.CEO),
         weight: 1,
         opacity: 0.5,
-        color: 'Orange',
         dashArray: '3',
         radius: 5,
         fillOpacity: 0.8
