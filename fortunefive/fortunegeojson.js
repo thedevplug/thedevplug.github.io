@@ -13,7 +13,7 @@ let fortunegeo = {
     "STREETADD":"702 S.W. Eighth St.",
     "CITY":"Bentonville",
     "STATE":"Arkansas",
-    "ZIP":72716
+    "CEO":"Male"
     }
   },
   {
@@ -28,7 +28,7 @@ let fortunegeo = {
     "STREETADD":"5959 Las Colinas Blvd.",
     "CITY":"Irving",
     "STATE":"Texas",
-    "ZIP":75039
+    "CEO":"Male"
     }
   },
   {
@@ -43,7 +43,7 @@ let fortunegeo = {
     "STREETADD":"6001 Bollinger Canyon Rd.",
     "CITY":"San Ramon",
     "STATE":"California",
-    "ZIP":94583
+    "CEO":"Male"
     }
   },
   {
@@ -58,7 +58,7 @@ let fortunegeo = {
     "STREETADD":"3555 Farnam St.",
     "CITY":"Omaha",
     "STATE":"Nebraska",
-    "ZIP":68131
+    "CEO":"Male"
     }
   },
   {
@@ -73,7 +73,7 @@ let fortunegeo = {
     "STREETADD":"1 Infinite Loop",
     "CITY":"Cupertino",
     "STATE":"California",
-    "ZIP":95014
+    "CEO":"Male"
     }
   },
   {
@@ -88,7 +88,7 @@ let fortunegeo = {
     "STREETADD":"300 Renaissance Center",
     "CITY":"Detroit",
     "STATE":"Michigan",
-    "ZIP":48265
+    "CEO":"Female"
     }
   },
   {
@@ -103,7 +103,7 @@ let fortunegeo = {
     "STREETADD":"3010 Briarpark Dr.",
     "CITY":"Houston",
     "STATE":"Texas",
-    "ZIP":77042
+    "CEO":"Male"
     }
   },
   {
@@ -118,7 +118,7 @@ let fortunegeo = {
     "STREETADD":"3135 Easton Turnpike",
     "CITY":"Fairfield",
     "STATE":"Connecticut",
-    "ZIP":6828
+    "CEO":"Male"
     }
   },
   {
@@ -133,7 +133,7 @@ let fortunegeo = {
     "STREETADD":"1 American Rd.",
     "CITY":"Dearborn",
     "STATE":"Michigan",
-    "ZIP":48126
+    "CEO":"Male"
     }
   },
   {
@@ -148,7 +148,7 @@ let fortunegeo = {
     "STREETADD":"1 CVS Dr.",
     "CITY":"Woonsocket",
     "STATE":"Rhode Island",
-    "ZIP":2895
+    "CEO":"Male"
     }
   },
   {
@@ -163,7 +163,7 @@ let fortunegeo = {
     "STREETADD":"1 Post St.",
     "CITY":"San Francisco",
     "STATE":"California",
-    "ZIP":94104
+    "CEO":"Male"
     }
   },
   {
@@ -178,7 +178,7 @@ let fortunegeo = {
     "STREETADD":"208 S. Akard St.",
     "CITY":"Dallas",
     "STATE":"Texas",
-    "ZIP":75202
+    "CEO":"Male"
     }
   },
   {
@@ -193,7 +193,7 @@ let fortunegeo = {
     "STREETADD":"1 Valero Way",
     "CITY":"San Antonio",
     "STATE":"Texas",
-    "ZIP":78249
+    "CEO":"Male"
     }
   },
   {
@@ -208,7 +208,7 @@ let fortunegeo = {
     "STREETADD":"9900 Bren Rd. E.",
     "CITY":"Minnetonka",
     "STATE":"Minnesota",
-    "ZIP":55343
+    "CEO":"Male"
     }
   },
   {
@@ -223,7 +223,7 @@ let fortunegeo = {
     "STREETADD":"140 West St.",
     "CITY":"New York",
     "STATE":"New York",
-    "ZIP":10007
+    "CEO":"Male"
     }
   },
   {
@@ -238,7 +238,7 @@ let fortunegeo = {
     "STREETADD":"1300 Morris Dr.",
     "CITY":"Chesterbrook",
     "STATE":"Pennsylvania",
-    "ZIP":19087
+    "CEO":"Male"
     }
   },
   {
@@ -253,7 +253,7 @@ let fortunegeo = {
     "STREETADD":"3900 Wisconsin Ave. N.W.",
     "CITY":"Washington",
     "STATE":"District of Columbia",
-    "ZIP":20016
+    "CEO":"Male"
     }
   },
   {
@@ -268,7 +268,7 @@ let fortunegeo = {
     "STREETADD":"999 Lake Dr.",
     "CITY":"Issaquah",
     "STATE":"Washington",
-    "ZIP":98027
+    "CEO":"Male"
     }
   },
   {
@@ -283,7 +283,7 @@ let fortunegeo = {
     "STREETADD":"3000 Hanover St.",
     "CITY":"Palo Alto",
     "STATE":"California",
-    "ZIP":94304
+    "CEO":"Male"
     }
   },
   {
@@ -298,7 +298,7 @@ let fortunegeo = {
     "STREETADD":"1014 Vine St.",
     "CITY":"Cincinnati",
     "STATE":"Ohio",
-    "ZIP":45202
+    "CEO":"Male"
     }
   },
   {
@@ -313,7 +313,7 @@ let fortunegeo = {
     "STREETADD":"270 Park Ave.",
     "CITY":"New York",
     "STATE":"New York",
-    "ZIP":10017
+    "CEO":"Male"
     }
   },
   {
@@ -328,7 +328,7 @@ let fortunegeo = {
     "STREETADD":"1 Express Way",
     "CITY":"St. Louis",
     "STATE":"Missouri",
-    "ZIP":63121
+    "CEO":"Male"
     }
   },
   {
@@ -343,7 +343,7 @@ let fortunegeo = {
     "STREETADD":"100 N. Tryon St.",
     "CITY":"Charlotte",
     "STATE":"North Carolina",
-    "ZIP":28255
+    "CEO":"Male"
     }
   },
   {
@@ -358,7 +358,7 @@ let fortunegeo = {
     "STREETADD":"1 New Orchard Rd.",
     "CITY":"Armonk",
     "STATE":"New York",
-    "ZIP":10504
+    "CEO":"Female"
     }
   },
   {
@@ -373,7 +373,7 @@ let fortunegeo = {
     "STREETADD":"539 S. Main St.",
     "CITY":"Findlay",
     "STATE":"Ohio",
-    "ZIP":45840
+    "CEO":"Male"
     }
   },
   {
@@ -388,7 +388,7 @@ let fortunegeo = {
     "STREETADD":"7000 Cardinal Place",
     "CITY":"Dublin",
     "STATE":"Ohio",
-    "ZIP":43017
+    "CEO":"Male"
     }
   },
   {
@@ -403,7 +403,7 @@ let fortunegeo = {
     "STREETADD":"100 N. Riverside Plaza",
     "CITY":"Chicago",
     "STATE":"Illinois",
-    "ZIP":60606
+    "CEO":"Male"
     }
   },
   {
@@ -418,7 +418,7 @@ let fortunegeo = {
     "STREETADD":"399 Park Ave.",
     "CITY":"New York",
     "STATE":"New York",
-    "ZIP":10022
+    "CEO":"Male"
     }
   },
   {
@@ -433,7 +433,7 @@ let fortunegeo = {
     "STREETADD":"410 Terry Ave. N.",
     "CITY":"Seattle",
     "STATE":"Washington",
-    "ZIP":98109
+    "CEO":"Male"
     }
   },
   {
@@ -448,7 +448,7 @@ let fortunegeo = {
     "STREETADD":"420 Montgomery St.",
     "CITY":"San Francisco",
     "STATE":"California",
-    "ZIP":94163
+    "CEO":"Male"
     }
   },
   {
@@ -463,7 +463,7 @@ let fortunegeo = {
     "STREETADD":"1 Microsoft Way",
     "CITY":"Redmond",
     "STATE":"Washington",
-    "ZIP":98052
+    "CEO":"Male"
     }
   },
   {
@@ -478,7 +478,7 @@ let fortunegeo = {
     "STREETADD":"1 Procter & Gamble Plaza",
     "CITY":"Cincinnati",
     "STATE":"Ohio",
-    "ZIP":45202
+    "CEO":"Male"
     }
   },
   {
@@ -493,7 +493,7 @@ let fortunegeo = {
     "STREETADD":"2455 Paces Ferry Rd. N.W.",
     "CITY":"Atlanta",
     "STATE":"Georgia",
-    "ZIP":30339
+    "CEO":"Male"
     }
   },
   {
@@ -508,7 +508,7 @@ let fortunegeo = {
     "STREETADD":"4666 Faries Pkwy.",
     "CITY":"Decatur",
     "STATE":"Illinois",
-    "ZIP":62526
+    "CEO":"Male"
     }
   },
   {
@@ -523,7 +523,7 @@ let fortunegeo = {
     "STREETADD":"108 Wilmot Rd.",
     "CITY":"Deerfield",
     "STATE":"Illinois",
-    "ZIP":60015
+    "CEO":"Male"
     }
   },
   {
@@ -538,7 +538,7 @@ let fortunegeo = {
     "STREETADD":"1000 Nicollet Mall",
     "CITY":"Minneapolis",
     "STATE":"Minnesota",
-    "ZIP":55403
+    "CEO":"Male"
     }
   },
   {
@@ -553,7 +553,7 @@ let fortunegeo = {
     "STREETADD":"1 Johnson & Johnson Plaza",
     "CITY":"New Brunswick",
     "STATE":"New Jersey",
-    "ZIP":8933
+    "CEO":"Male"
     }
   },
   {
@@ -568,7 +568,7 @@ let fortunegeo = {
     "STREETADD":"120 Monument Circle",
     "CITY":"Indianapolis",
     "STATE":"Indiana",
-    "ZIP":46204
+    "CEO":"Male"
     }
   },
   {
@@ -583,7 +583,7 @@ let fortunegeo = {
     "STREETADD":"200 Park Ave.",
     "CITY":"New York",
     "STATE":"New York",
-    "ZIP":10166
+    "CEO":"Male"
     }
   },
   {
@@ -598,7 +598,7 @@ let fortunegeo = {
     "STREETADD":"1600 Amphitheatre Pkwy.",
     "CITY":"Mountain View",
     "STATE":"California",
-    "ZIP":94043
+    "CEO":"Male"
     }
   },
   {
@@ -613,7 +613,7 @@ let fortunegeo = {
     "STREETADD":"1 State Farm Plaza",
     "CITY":"Bloomington",
     "STATE":"Illinois",
-    "ZIP":61710
+    "CEO":"Male"
     }
   },
   {
@@ -628,7 +628,7 @@ let fortunegeo = {
     "STREETADD":"8200 Jones Branch Dr.",
     "CITY":"McLean",
     "STATE":"Virginia",
-    "ZIP":22102
+    "CEO":"Male"
     }
   },
   {
@@ -643,7 +643,7 @@ let fortunegeo = {
     "STREETADD":"1 Comcast Center",
     "CITY":"Philadelphia",
     "STATE":"Pennsylvania",
-    "ZIP":19103
+    "CEO":"Male"
     }
   },
   {
@@ -658,7 +658,7 @@ let fortunegeo = {
     "STREETADD":"700 Anderson Hill Rd.",
     "CITY":"Purchase",
     "STATE":"New York",
-    "ZIP":10577
+    "CEO":"Female"
     }
   },
   {
@@ -673,7 +673,7 @@ let fortunegeo = {
     "STREETADD":"1 Financial Plaza",
     "CITY":"Hartford",
     "STATE":"Connecticut",
-    "ZIP":6101
+    "CEO":"Male"
     }
   },
   {
@@ -688,7 +688,7 @@ let fortunegeo = {
     "STREETADD":"175 Water St.",
     "CITY":"New York",
     "STATE":"New York",
-    "ZIP":10038
+    "CEO":"Male"
     }
   },
   {
@@ -703,7 +703,7 @@ let fortunegeo = {
     "STREETADD":"55 Glenlake Pkwy. N.E.",
     "CITY":"Atlanta",
     "STATE":"Georgia",
-    "ZIP":30328
+    "CEO":"Male"
     }
   },
   {
@@ -718,7 +718,7 @@ let fortunegeo = {
     "STREETADD":"2030 Dow Center",
     "CITY":"Midland",
     "STATE":"Michigan",
-    "ZIP":48674
+    "CEO":"Male"
     }
   },
   {
@@ -733,7 +733,7 @@ let fortunegeo = {
     "STREETADD":"151 Farmington Ave.",
     "CITY":"Hartford",
     "STATE":"Connecticut",
-    "ZIP":6156
+    "CEO":"Male"
     }
   },
   {
@@ -748,7 +748,7 @@ let fortunegeo = {
     "STREETADD":"1000 Lowe's Blvd.",
     "CITY":"Mooresville",
     "STATE":"North Carolina",
-    "ZIP":28117
+    "CEO":"Male"
     }
   }
 ]
