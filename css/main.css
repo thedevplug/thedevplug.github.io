@@ -50,6 +50,11 @@ a {
   width: 22%;
 }
 
+.works img {
+  height: 22%;
+  width: 22%;
+}
+
 .header img {
   height: 30%;
   width: 30%;
@@ -62,9 +67,4 @@ a {
 
 #links {
   background-color: grey;
-}
-
-.works img {
-  height: 22%;
-  width: 22%;
 }
