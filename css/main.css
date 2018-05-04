@@ -63,3 +63,8 @@ a {
 #links {
   background-color: grey;
 }
+
+.works img {
+  height: 22%;
+  width: 22%;
+}

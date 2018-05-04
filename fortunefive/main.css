@@ -9,3 +9,15 @@ header,footer {
   width: 75%;
   left: 12.5%;
 }
+
+.title,.legend {
+  text-align: center;
+}
+
+.blue {
+  color: blue;
+}
+
+.pink {
+  color: pink;
+}
