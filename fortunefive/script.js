@@ -16,13 +16,17 @@ function getColor(d) {
            d === "Female"  ? 'Pink' :
            '#FFEDA0';
 }
+function getRadius(e) {
+    return e === "Male" ? 4 :
+           e === "Female" ? 6 :
+           5;
+}
 function style (feature) {
     return {
         fillColor: getColor(feature.properties.CEO),
         weight: 1,
         opacity: 0.5,
-        dashArray: '3',
-        radius: 5,
+        radius: getRadius(feature.properties.CEO),
         fillOpacity: 0.8
     };
 }
